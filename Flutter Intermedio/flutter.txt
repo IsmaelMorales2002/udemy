@@ -1,0 +1,3 @@
+Navigator.pushReplacement = Destruye las paginas anteriores
+onGenerateRoute: screen por defecto
+Navigator.pop = regresa a la pantalla anterior
